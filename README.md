@@ -1,8 +1,8 @@
 # tr_data
 
-Its a dropper with a transkater tool.
+Its a dropper with a transkater tool, and it can dorp from 腾讯课堂.
 
-And its customized.
+And its customized!!
 
 en to ch.
 
